@@ -21,7 +21,7 @@ Steps to run the system:
   
           1. Click on Check In button.
           2. Enter Class ID of the class.
-          3. Webcam popups
+          3. Webcam pop-ups
           4. If the face is recognized attendance will be marked in the databased as well as stored in xml file.
            
   5. To create attendance reports: Click on Create Reports button.
