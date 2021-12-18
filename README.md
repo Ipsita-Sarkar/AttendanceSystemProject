@@ -10,8 +10,10 @@ Steps to setup the database:
                      2. record_table: Add the following attributes: Student_id, Class_id, Attendance. Make Student_id and Class-id primary key.
                      3. student_table: dd the following attributes:  Dep, Course, Year, Semester, Student_id, Name, Section, Roll, Gender,DOB, Phone,  Email, Address, PhotoSample.                         Make Student_id primary key.
   5. Setup all the tables with necessary data.
+  
 Steps to setup the project:
   1. Add necessary server credentials wherever needed.
+   
 Steps to run the system:
   1. Run main.py file.
   2. The Home Page is visible.
