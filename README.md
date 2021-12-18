@@ -25,6 +25,6 @@ Steps to run the system:
           3. Webcam pop-ups
           4. If the face is recognized attendance will be marked in the databased as well as stored in xml file.
            
-  5. To create attendance reports: Click on Create Reports button.
+  5. To create attendance reports: Click on Create Reports button. 
   6. To see daily attendance: Click on View Attendance button.
   7. To view and modify student data: Click on Student Details button.
